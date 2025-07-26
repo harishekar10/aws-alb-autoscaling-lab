@@ -41,5 +41,5 @@ terraform destroy
 ```
 
 ## 📌 Author
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [GitHub](https://github.com/YOUR_USERNAME)
+- 
+- [GitHub](https://github.com/harishekar10)
